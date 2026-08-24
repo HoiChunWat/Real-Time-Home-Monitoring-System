@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment variables and secrets
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+*:Zone.Identifier
